@@ -12,6 +12,3 @@ Infrastructure and Security - Vulnerability Analyst and Penetration Tester
 - Youssef Fathy Mohammed Youssef
 - Omar Mohammed Edris
 - Abdelrhamn Ibrahim Abdelrazek Abdelhamed
-
----
-⭐ Please make sure all information above is correct and updated.
